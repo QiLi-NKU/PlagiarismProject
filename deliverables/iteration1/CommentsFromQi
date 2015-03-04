@@ -1,0 +1,6 @@
+March 3:
+1. In class diagram, "user"， “student”, and "professor" are inherited relations, and you should use correct notation 
+to represent them. 
+2. In the implementation, you use "login", "logout", "new_user", and "results", which are hard to match to your design document. 
+In another way, your implementation are not followed your design.
+3. Some comments and "readme" files are necesary for describing the project.
